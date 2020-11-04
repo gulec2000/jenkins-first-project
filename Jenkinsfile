@@ -10,7 +10,7 @@ pipeline {
         stage('run') {
             steps {
                 echo 'Running the compiled java code.'
-                sh 'javac Hello.java'
+                sh 'java Hello'
             }
         }
     }
