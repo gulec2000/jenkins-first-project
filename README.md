@@ -1,10 +1,10 @@
 # jenkins-first-project: Building Jenkins Pipelines on Amazon Linux 2 AWS EC2 Instance
 In this Project, I am going to exhibit following hands-on experiences
-[]  configure Jenkins Server on Docker on Amazon Linux 2 EC2 instance using Cloudformation Service,
-[]  build simple Jenkins pipelines,
-[]  build Jenkins pipelines with Jenkinsfile,
-[]  integrate Jenkins pipelines with GitHub using Webhook
-[]  configure Jenkins Pipeline to build Python code
+- []  configure Jenkins Server on Docker on Amazon Linux 2 EC2 instance using Cloudformation Service,
+- []  build simple Jenkins pipelines,
+- []  build Jenkins pipelines with Jenkinsfile,
+- []  integrate Jenkins pipelines with GitHub using Webhook
+- []  configure Jenkins Pipeline to build Python code
 
 ## Outline
 
