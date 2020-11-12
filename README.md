@@ -112,7 +112,7 @@ git push
 
 - Observe the new built under `Build History` on the Jenkins project page.
 
-## Part 7 - Configuring Jenkins Pipeline with GitHub Webhook to Build the Java Code
+## Part 3 - Configuring Jenkins Pipeline with GitHub Webhook to Build the Java Code
 
 - Go to the Jenkins dashboard and click on `New Item` to create a pipeline.
 
