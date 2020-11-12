@@ -23,7 +23,7 @@ Launch a pre-configured `Clarusway Jenkins Server` from the AMI of Clarusway (am
 - Connect to your instance with SSH.
 
     ```bash
-    ssh -i .ssh/call-training.pem ec2-user@ec2-3-133-106-98.us-east-2.compute.amazonaws.com
+    ssh -i .ssh/<'your pem'.pem> <ec2-user@'Public IPv4 DNS of your EC2 Instance' >
     ```
 
   - Get the administrator password from `var/jenkins_home/secrets/initialAdminPassword` file.
